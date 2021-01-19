@@ -22,7 +22,7 @@ All of the spices measurements should be thought of as being 'heaping' - I am qu
 
 #### Nut spices
 ```
-• 1 1T sugar
+• 1T sugar
 • 1t ground cumin
 • 1/2t cumin seeds
 • 1t ground coriander
