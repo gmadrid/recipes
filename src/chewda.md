@@ -26,6 +26,7 @@ All of the spices measurements should be thought of as being 'heaping' - I am qu
 • 1t ground cumin
 • 1/2t cumin seeds
 • 1t ground coriander
+• 1/2t hing
 • 1t table salt
 ```
 
