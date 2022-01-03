@@ -11,3 +11,4 @@
 ### Snacks
 
 - [Chewda](./chewda.md)
+- [Hummus](./hummus.md)
