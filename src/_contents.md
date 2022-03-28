@@ -15,6 +15,7 @@
 
 ### Cocktails
 
+- [Boston Cardshark](cocktails/cardsharp.md)
 - [G-Sweet Pineapple Margarita](cocktails/pinemarg.md)
 - [Mexican Mojito](cocktails/mexicanmojito.md)
 - [Sex with the Ex](cocktails/sexwiththeex.md)
