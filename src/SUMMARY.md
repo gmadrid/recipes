@@ -2,6 +2,7 @@
 
 ### [Contents](./_contents.md)
 
+- [Cajun Seasoning](./spices/cajun.md)
 - [Caramelized Salmon](./caramelized_salmon.md)
 - [Chewda](./chewda.md)
 - [G-Sweet Pineapple Margarita](cocktails/pinemarg.md)

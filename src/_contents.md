@@ -2,11 +2,15 @@
 
 ### Breakfast
 
+- [Shakshuka](./shakshuka.md)
 - [Waffles](./waffles.md)
 
 ### Dinners
 
 - [Caramelized Salmon](./caramelized_salmon.md)
+
+### Spice mixes
+- [Cajun seasoning](./spices/cajun.md)
 
 ### Snacks
 
