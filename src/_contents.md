@@ -19,6 +19,7 @@
 
 ### Cocktails
 
+- [Best Basic Margarita](cocktails/margarita.md)
 - [Boston Cardshark](cocktails/cardsharp.md)
 - [G-Sweet Pineapple Margarita](cocktails/pinemarg.md)
 - [Mexican Mojito](cocktails/mexicanmojito.md)
