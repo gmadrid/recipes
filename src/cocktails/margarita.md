@@ -3,7 +3,7 @@
 
 * 1.5oz Reposado Tequila
 * 1oz Cointreau
-* .75oz Line juice
+* .75oz Lime juice
 
 Combine all ingredients and shake with ice. Pour into a coupe (or cocktail) glass
 with a salted rim.
