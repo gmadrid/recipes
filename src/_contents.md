@@ -12,6 +12,9 @@
 ### Spice mixes
 - [Cajun seasoning](./spices/cajun.md)
 
+### Desserts
+- [Scottish tablet](./desserts/tablet.md)
+
 ### Snacks
 
 - [Chewda](./chewda.md)
