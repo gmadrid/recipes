@@ -2,7 +2,7 @@
 
 ### Notes
 
-- [Recipes to try](./totry.md)
+- [Recipes to try](totry.md)
 
 ### Breakfast
 
@@ -14,10 +14,10 @@
 - [Caramelized Salmon](dinners/caramelized_salmon.md)
 
 ### Spice mixes
-- [Cajun seasoning](./spices/cajun.md)
+- [Cajun seasoning](spices/cajun.md)
 
 ### Desserts
-- [Scottish tablet](./desserts/tablet.md)
+- [Scottish tablet](desserts/tablet.md)
 
 ### Sauces
 - [Black pepper scallion sauce](sauces/pepperscallion.md)

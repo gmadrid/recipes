@@ -1,10 +1,10 @@
 # Summary
 
-### [Contents](./_contents.md)
+### [Contents](_contents.md)
 
 - [Best Basic Margarita](cocktails/margarita.md)
-- [Boston Cardshark](./cocktails/cardsharp.md)
-- [Cajun Seasoning](./spices/cajun.md)
+- [Boston Cardshark](cocktails/cardsharp.md)
+- [Cajun Seasoning](spices/cajun.md)
 - [Caramelized Salmon](dinners/caramelized_salmon.md)
 - [Chewda](snacks/chewda.md)
 - [G-Sweet Pineapple Margarita](cocktails/pinemarg.md)
