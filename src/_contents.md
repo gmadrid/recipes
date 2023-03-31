@@ -1,13 +1,17 @@
 # Contents
 
+### Notes
+
+- [Recipes to try](./totry.md)
+
 ### Breakfast
 
-- [Shakshuka](./shakshuka.md)
-- [Waffles](./waffles.md)
+- [Shakshuka](breakfast/shakshuka.md)
+- [Waffles](breakfast/waffles.md)
 
 ### Dinners
 
-- [Caramelized Salmon](./caramelized_salmon.md)
+- [Caramelized Salmon](dinners/caramelized_salmon.md)
 
 ### Spice mixes
 - [Cajun seasoning](./spices/cajun.md)
@@ -15,10 +19,14 @@
 ### Desserts
 - [Scottish tablet](./desserts/tablet.md)
 
+### Sauces
+- [Black pepper scallion sauce](sauces/pepperscallion.md)
+- [Red oil dumpling sauce](sauces/redoilsauce.md)
+
 ### Snacks
 
-- [Chewda](./chewda.md)
-- [Hummus](./hummus.md)
+- [Chewda](snacks/chewda.md)
+- [Hummus](snacks/hummus.md)
 
 ### Cocktails
 
