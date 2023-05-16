@@ -5,6 +5,7 @@
 * [Miso Caramel](https://www.chopstickchronicles.com/miso-caramel/)
 
 
+#### Recipes to try one day
 * [Chinese Spring Onion Pancakes](https://www.marionskitchen.com/chinese-spring-onion-pancakes/)
 * [Spicy General Tso's Chicken](https://www.marionskitchen.com/spicy-general-tsos-chicken/)
 * [Marion's best 2022](https://www.marionskitchen.com/article/most-popular-marion-grasby-best-recipes/)
@@ -15,6 +16,13 @@
 * [Orange Chicken](https://thewoksoflife.com/orange-chicken/#recipe)
 * [Red Curry Chicken](https://thewoksoflife.com/red-curry-chicken/#recipe)
 * [Pepper Steak](https://thewoksoflife.com/pepper-steak-recipe/#recipe)
+* [Thai Fried Rice](https://thewoksoflife.com/thai-fried-rice/)
+* [Hot and Sour Dumpling Soup](https://thewoksoflife.com/hot-sour-dumpling-soup/)
+* [Fujian Fried Rice](https://thewoksoflife.com/fujian-fried-rice/)
+* [Pasta with Breadcrumbs and Anchovies](https://thewoksoflife.com/spaghett-with-breadcrumbs-anchovies/)
+* [Underrated recipes](https://thewoksoflife.com/underrated-recipes/)
+* [Steamed Red Bean Bun](https://thewoksoflife.com/steamed-red-bean-buns/)
+* [Sticky Rice with Chinese Sausage](https://thewoksoflife.com/sticky-rice-with-chinese-sausage/)
 
 
 
