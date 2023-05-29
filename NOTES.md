@@ -23,12 +23,16 @@
 * [Underrated recipes](https://thewoksoflife.com/underrated-recipes/)
 * [Steamed Red Bean Bun](https://thewoksoflife.com/steamed-red-bean-buns/)
 * [Sticky Rice with Chinese Sausage](https://thewoksoflife.com/sticky-rice-with-chinese-sausage/)
+* [Sabudana Vada](https://www.vegrecipesofindia.com/sabudana-vada-recipe-how-to-make-sabudana-vada-recipe/#wprm-recipe-container-134205)
+* [Teriyaki Chicken Udon Noodle Soup](https://www.marionskitchen.com/teriyaki-chicken-udon-noodle-soup/)
+* [One-Pan Gochujang Chicken and Rice](https://www.marionskitchen.com/one-pan-gochujang-chicken-and-rice/)
 
 
 
 
 
 
+#### Made
 
 
 [Thai Spicy Basil & Pork Belly Stir-Fry](https://www.marionskitchen.com/thai-spicy-basil-pork-belly-stir-fry/) this was really good. Make again. I added some red peppers for some veg. The heat was terrific and just right. (I didn't add the hottest peppers.)
