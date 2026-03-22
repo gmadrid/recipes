@@ -3,7 +3,7 @@
 Prep time: 15 mins  
 Total time: 40 mins  
 Serves: 4-6  
-Yield: 6 Waffles  
+Yield: 9 Waffles (on my waffle iron)
 Url: http://www.geniuskitchen.com/63071  
 
 ---
@@ -45,3 +45,23 @@ Url: http://www.geniuskitchen.com/63071
 * Cook in waffle iron for about __6:30__. Watch and adjust time as needed.
 
 * Serve with butter and maple syrup.
+
+
+## Nutrition (per waffle, 1/9 of batch, plain — no butter or syrup)
+
+| Nutrient | Amount |
+|---|---|
+| Calories | 230 kcal |
+| Total Fat | 13g |
+| — Saturated Fat | 1.7g |
+| — Unsaturated Fat | 10.5g |
+| Cholesterol | 46mg |
+| Sodium | 267mg |
+| Total Carbohydrates | 28g |
+| — Dietary Fiber | 0.3g |
+| — Sugars | 7g |
+| Protein | 6.5g |
+
+> **Note:** Add approximately 150 kcal, 6g fat, and 26g carbs (25g sugar)
+> for a typical serving with ½ tbsp butter and ⅛ cup maple syrup,
+> bringing the total to ~380 kcal per waffle.
