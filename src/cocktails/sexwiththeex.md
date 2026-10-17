@@ -14,7 +14,7 @@ Garnish with extra jalapeño slice and pinch of cayenne.
 
 #### NOTES
 
-This is a near perfect cocktail - especially with the jalapeño has some kick.
+This is a near perfect cocktail - especially when the jalapeño has some kick.
 
 #### NUTRITION
 
