@@ -37,6 +37,7 @@ Url: http://www.geniuskitchen.com/63071
 
 * Sift dry ingredients together in a large bowl
 * In separate bowl, whip egg whites until stiff peaks
+    * Optional: the whites can be left unwhipped (just beat both whole eggs into the wet ingredients). With this much baking powder, the chemical leavening carries the lift and the iron compresses out most of the foam — whipping makes only a small difference here.
 * In a third bowl, mix the wet ingredients.
 * Add the wet ingredients to the dry ingredients and mix well
 * Fold in the egg whites.
