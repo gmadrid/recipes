@@ -1,5 +1,5 @@
 ## Shakshuka
-#### stolen from [Downshiftology](https://downshiftology.com/recipes/shakshuka/) but modded by me
+#### from [Downshiftology](https://downshiftology.com/recipes/shakshuka/)
 
 Prep time: 10 mins  
 Cook time: 20 mins  
