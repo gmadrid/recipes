@@ -57,3 +57,14 @@ Serves: 6
 > **Note:** Derived from the ingredient list above; sodium excludes added salt and
 > varies with the canned tomatoes. Serving with bread adds ~80–150 kcal and ~15–30g
 > carbs per slice.
+
+---
+
+### Notes
+
+* **Half batch for two** (reconstructed from memory): halve everything — 1 Tbsp oil,
+  1/2 onion, 1/2 red pepper, 2 garlic cloves, 1t paprika, 1/2t cumin, pinch chili,
+  one 14 oz can tomatoes, 3 eggs. Serves 2 (one generous, one modest) or 2–3.
+* **Cast iron skillet.** A 10" cast iron holds the half batch and 3 eggs comfortably;
+  an 8" is tight — drop to 2 eggs, or let the sauce reduce a little less so there's
+  room for the wells. Cast iron holds heat evenly and goes straight from stove to table.
